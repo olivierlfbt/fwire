@@ -1,0 +1,11 @@
+{
+    "mission": "Power Line Inspection",
+    "drone": "Quadcopter X4",
+    "camera": "4K RGB",
+    "video": "sample.mp4",
+    "frameRate": 30,
+    "resolution": "1920x1080",
+    "altitudeMeters": 55,
+    "inspectionDate": "2026-07-31",
+    "operator": "Demo Operator"
+}

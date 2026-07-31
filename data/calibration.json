@@ -1,0 +1,11 @@
+{
+    "camera": "Drone Camera",
+    "frameWidth": 1920,
+    "frameHeight": 1080,
+    "focalLength": 4.8,
+    "pixelSize": 0.00112,
+    "warningDistance": 60,
+    "houghThreshold": 90,
+    "minLineLength": 80,
+    "maxLineGap": 15
+}
